@@ -1,7 +1,8 @@
 backend:
   name: ergans1
   repo: ergans1/BLOGWEBPORTOFOLIO
-
+  branch: master
+  
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
