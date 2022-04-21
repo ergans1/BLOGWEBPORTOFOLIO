@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: ergans1/BLOGWEBPORTOFOLIO
-  branch: master
+  branch: main
   
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
