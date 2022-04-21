@@ -1,5 +1,5 @@
 backend:
-  name: ergans1
+  name: git-gateway
   repo: ergans1/BLOGWEBPORTOFOLIO
   branch: master
   
