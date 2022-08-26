@@ -1,9 +1,6 @@
 ---
-title: Portal Berita UMKM Dan Bisnis Indonesia Terlengkap & Terbaik
-subtitle: Perkembangan teknologi informasi, Industri Makanan dan Minuman di
-  Smartertech. Memberikan update terkini seputar bisnis restoran. Membahas
-  Informasi Kuliner Selera Nusantara dengan mengikuti perkembangan dunia
-  kuliner. Kami memberikan Rekomendasi Tempat Makan Terfavorit di Indonesia
+title: DIGINEWS - Portal Berita UMKM Dan Bisnis Indonesia Terlengkap & Terbaik
+subtitle: Perkembangan teknologi informasi, Industri Makanan dan Minuman di DIGINEWS
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
