@@ -1,6 +1,6 @@
 ---
 title: SMARTERTECH
-date: 2022-09-08T06:25:04.158Z
+date: 2022-09-08T06:28:52.518Z
 description: Portal Berita UMKM Dan Bisnis Indonesia Terlengkap & Terbaik.
 image: img/blog-chemex.jpg
 ---
